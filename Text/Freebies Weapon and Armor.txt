@@ -1,0 +1,76 @@
+ Swordsman 
+Pike[3] - 1407
+Sword[3] - 1101
+Chain Mail - 2315
+Swordsman Figure  - 2766
+Boots - 2405
+Manteau - 2505
+Shield - 2105
+
+Acolyte
+Saint Robe -2325
+Buckler - 2103
+Shoes - 2403
+Muffler - 2503
+Chain - 1519
+Acolyte Figure - 2767
+
+Archer
+Tight - 2330
+Gakkung Bow - 1716
+Boots - 2405
+Muffler - 2503
+Archer Figure - 2769
+
+Thief
+Thief Clothes - 2335
+Buckler - 2103
+Main Gauche - 1207
+Boots - 2405
+Manteau - 2505
+Thief Figure - 2770
+
+Mage
+Silk Robe - 2321
+Guard - 2102
+Shoes - 2403
+Muffler - 2503
+Staff of Darkness - 1642
+Mage Figure - 2768ind
+
+Merchant
+Battle Axe - 1353
+Chain Mail - 2315
+Buckler - 2103
+Boots - 2405
+Manteau - 2505
+Merchant Figure - 2771
+
+Taekwon
+Book - 1550
+Guard - - 2102
+Shoes - 2403
+Muffler - 2503
+2pcs Clip - 2607
+Silk Robe - 2321
+
+
+Ninja
+Ninja Suit - 2337
+Guard - - 2102
+Shoes - 2403
+Muffler - 2503
+Main Gauche - 1207
+2pcs Clip - 2607
+
+
+Gunslinger
+Silk Robe - 2321
+2 pcs Brooch - 2605
+Guard - - 2102
+Shoes - 2403
+Muffler - 2503
+Sharpshooter Revolver - 13111
+
+
+

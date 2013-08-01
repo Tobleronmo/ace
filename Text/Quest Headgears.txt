@@ -1,0 +1,137 @@
+18508 - RWC 2010 Indonesia 
+#957# Decayed Nail - 300
+#907# Resin - 300
+#904# Scorpion Tail - 300
+#7568# White Mask - 150
+#675# Silver Coin - 10
+
+
+18561 - Black Feather Beret
+#675# Silver Coin - 10
+#951# Fin - 300
+#7319# Used Iron Plate - 300
+#916# Feather of Birds - 300
+#7115# Harpy Feather - 300
+#5172# Beret - 5
+
+
+18670 - Hankie in Mouth
+#1059# Fabric - 300
+#945# Raccoon Leaf - 300
+#911# Scell - 300
+#7071# Tattered Clothes - 300
+#7166# Soft Silk - 300
+#675# Silver Coin - 10
+
+
+18677 - Cherry Twig in Mouth
+#1067# Solid Trunk - 300
+#938# Sticky Mucus - 300
+#7035# Match Sticks - 1
+#1095# Needle of Alarm - 300
+#675# Silver Coin - 10
+
+
+
+
+18673 - Chibi Pope
+#7054# Brigan - 300
+#7053# Cyfar - 300 
+#7291# Agate - 3
+#7319# Used Iron Plate - 300
+#904# Scorpion Tail - 300
+#675# Silver Coin - 10
+
+
+
+18666 - CD in Mouth
+#7289# Peridot - 1
+#7005# Skull - 300
+#1038# Little Evil Horn - 300
+#938# Sticky Mucus - 300
+#675# Silver Coin - 10
+
+
+5594 - Donut in Mouth
+#912# Zargon - 300
+#1023# Fish Tail - 300
+#1062# Jack O Pumpkin - 300
+#7100# Sharp Leaf - 300
+#675# Silver Coin  - 10
+
+
+5471 - Hairband of Reginleif
+#912# Zargon - 300
+#1023# Fish Tail - 300
+#7298# Fig Leaf - 300
+#1062# Jack O Pumpkin - 300
+#7097# Burning Heart - 300
+#675# Silver Coin - 10
+
+
+
+18528 - Drooping Neko Crew
+#7005# Skull - 300
+#1038# Little Evil Horn - 300
+#983# Black Dyestuff - 3
+#1059# Fabric - 300
+#945# Raccoon Leaf - 300
+#7054# Brigan - 300
+#914# Fluff - 300
+#1059# Fabric - 300
+#675# Silver Coin - 10
+
+
+
+
+18566 - Nut Donut in Mouth
+#1026# Acorn - 300
+#912# Zargon - 300
+#1023# Fish Tail - 300
+#7298# Fig Leaf - 300
+#675# Silver Coin - 10
+
+18641 - Ribbon Magic Hat
+#7563# Bloody Rune - 300
+#1038# Little Evil Horn - 300
+#963# Sharp Scale - 300 
+#912# Zargon - 300
+#949# Feather - 300 
+
+
+
+18703 - Stem in Mouth
+#914# Fluff - 300
+#938# Sticky Mucus - 300
+#918# Sticky Webfoot - 300
+#1067# Solid Trunk - 300
+#675# Silver Coin - 10
+
+
+18729 - MVP Basketball hat
+#7097# Burning Heart - 500
+#7120# Burning Horseshoe - 200
+#7752# Clattering Skull - 300
+#2678# Ring of Flame Lord - 1
+#2679# Ring of Resonance - 1
+#675# Silver Coin - 10
+ 
+18716 - Strawberry in Mouth
+#578# Strawberry 300
+#514# Grape - 300
+#1062# Jack O Pumpkin - 300
+#7100# Sharp Leaf - 300
+#675# Silver Coin - 10
+
+
+18657 - Pegasus Wing Ears
+#1034# Blue Hair - 300
+#1035# Dragon Canine - 300
+#1037# Dragon Tail - 300
+#2257# Unicorn Horn - 1
+#916# Feather of Birds - 500
+#675# Silver Coin 10
+
+
+
+

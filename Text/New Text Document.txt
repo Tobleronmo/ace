@@ -1,0 +1,53 @@
+New Open Server 
+
+Exhilarate Ragnarok Online
+Mid Rate Server
+Rates: 150x/100x/50x
+Quote
+-Max Base Level: 150
+-Max Job Level: 50
+-Third Job Enabled
+-Max Stats: 120
+-Max ASPD (Attack Speed): 193
+-Exp rates : 150x/100x
+-Floating Rates: 300x/200x
+-Normal Drop Rates: Common: 25x/Healing: 25x/Usable: 25x/Equipment:50x/Card:75x
+-Boss Drop Rates: Common: 25x/Healing: 25x/Usable: 25x/Equipment:10x/Card:15x
+-Main Town: Custom Town of Crystilia
+Language: English
+Server Features:
+-Warper
+-All in One NPC (Platinum Skill NPC, Job Changer NPC and more)
+-Healer NPC (includes Heal, Buff and Item repair and identify)
+-Coin Trader (from Zeny to Coin and vice versa)
+-Item Mall with basic items
+-Automated Events
+-Cash Shop (Official Cash Shop Button)
+-Navigation System (You can easily find custom NPCs)
+-Pin Code System (Official Pin Code System)
+-Mount System (Official Mounts)
+-VIP System
+-Daily Rewards
+Commands:
+-@autoloot
+-@alootid
+-@mi
+-@request
+-@changegm
+-@time
+-@go
+-@duel
+-@accept
+-@decline
+-@rates
+and Many more 
+
+
+Quicklinks:
+website - www.exhilarate-ro.com
+facebook group - https://www.facebook...s/exhilaratero/
+facebook page - https://www.facebook.com/ExhilarateRagnarokOnline
+Downloads - http://exhilarate-ro.com/?module=main&action=downloads
+Account Registration - http://exhilarate-ro.com/?module=account&action=create
+
+ For more information, visit our wiki: http://wiki.exhilarate-ro.com
